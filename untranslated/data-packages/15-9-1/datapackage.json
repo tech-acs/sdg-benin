@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Environment",
+                "Ministère du Cadre de Vie et du Développement Durable",
                 ""
               ]
             }
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }

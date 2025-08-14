@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Angolan Institute of Communications",
+                "Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin)",
                 ""
               ]
             }
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -81,7 +81,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data have been revised,there are estimated data so the unit is the smallest available",
+                "Données corrigées",
+                "Data not available",
                 ""
               ]
             }

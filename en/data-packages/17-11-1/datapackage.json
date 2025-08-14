@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "E",
                 "A",
+                "E",
                 ""
               ]
             },
@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

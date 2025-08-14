@@ -69,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -80,12 +80,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "C02",
                 "C03",
                 "C04",
-                "C06",
-                "C07",
+                "C05",
                 "C08",
-                "C11",
                 ""
               ]
             },
@@ -101,12 +100,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Benguela",
-                "Cabinda",
-                "Lubango",
-                "Luena",
-                "Malanje",
-                "Saurimo",
+                "Cotonou",
+                "Djougou",
+                "Kandi",
+                "Natitingou",
+                "Abomey",
                 ""
               ]
             },
@@ -123,7 +121,6 @@
             "constraints": {
               "enum": [
                 "2010-2020",
-                "2000-2010",
                 ""
               ]
             },

@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "A",
+                "I",
                 ""
               ]
             },
@@ -72,7 +73,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

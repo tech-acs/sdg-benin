@@ -42,7 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Instituto dos Servicos de Veterinaria (ISV)",
+                "National Coordinator for the management of AnGR of: Benin",
+                "FAO-WIEWS (http://www.fao.org/wiews)",
                 ""
               ]
             },
@@ -58,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -80,14 +81,27 @@
             "constraints": {
               "enum": [
                 "2024",
+                "2022",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN = A figure was not provided",
+                "Estimate based on 2020 report.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

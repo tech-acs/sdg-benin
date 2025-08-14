@@ -39,7 +39,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Angola DHS 2015-16. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Benin Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) 2021-22. The survey collected data on school attendance and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Benin MICS 2021-22. The survey collected data on school attendance for age 3-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
+                "Benin MICS 2021 (GEMR). Data extracted on 25 February 2025.",
                 ""
               ]
             }
@@ -53,7 +55,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -122,7 +124,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2015",
+                "2022",
+                "2021",
                 ""
               ]
             }
@@ -132,6 +135,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "This data point is NIL for the submitting nation.",
                 "This data point is NOT APPLICABLE for the submitting nation.",
                 ""
               ]

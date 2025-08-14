@@ -42,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NA Data extracted on 25 February 2025.",
                 "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "NA Data extracted on 25 February 2025.",
                 ""
               ]
             },
@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -70,10 +70,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AGG_2_3",
                 "ISCED11_1",
                 "ISCED11_2",
                 "ISCED11_3",
+                "AGG_2_3",
                 ""
               ]
             },
@@ -94,7 +94,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
+                "2020",
+                "2022",
                 ""
               ]
             },

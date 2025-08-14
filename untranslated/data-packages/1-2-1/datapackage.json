@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Source: World Bank Poverty Assessment (2020). Poverty line is absolute.",
+                "Source: INSAE",
                 ""
               ]
             }
@@ -63,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }

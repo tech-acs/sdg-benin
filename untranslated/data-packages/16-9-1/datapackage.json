@@ -35,11 +35,21 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Two clusters could not be visited due to insecurity and evictions during the field work period",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "DHS 2015-16",
+                "MICS 2021-22",
                 ""
               ]
             }
@@ -53,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -86,7 +96,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2015-16",
+                "2021-22",
                 ""
               ]
             }

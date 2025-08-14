@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Level of implementation: 1 lowest to 5 highest",
+                "Indicator developped upon responses provided by the EU | Level of implementation: 1 lowest - 5 highest",
                 ""
               ]
             },
@@ -69,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

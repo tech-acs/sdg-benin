@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -90,7 +90,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries)",
                 "The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries)",
                 ""
               ]

@@ -40,7 +40,7 @@
             "constraints": {
               "enum": [
                 "mainly UNSD National Accounts estimates. Missing data supplemented by IMF and other sources",
-                "consolidated General Government",
+                "Budgetary Central Government",
                 ""
               ]
             }
@@ -65,7 +65,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }

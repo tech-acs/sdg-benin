@@ -39,8 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "17.6",
-                "6075",
+                "29.3",
+                "3804",
                 ""
               ]
             }
@@ -50,8 +50,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "12.5",
-                "4301",
+                "20.4",
+                "2645",
                 ""
               ]
             }
@@ -75,7 +75,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -100,7 +100,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

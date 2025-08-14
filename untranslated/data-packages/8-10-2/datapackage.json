@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -78,6 +78,18 @@
                 "Y_GE15",
                 "Y_GE25",
                 "Y15T24",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -119,7 +131,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2014",
+                "2021",
                 ""
               ]
             }

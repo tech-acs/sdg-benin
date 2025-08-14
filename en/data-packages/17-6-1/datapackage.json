@@ -43,7 +43,7 @@
             "constraints": {
               "enum": [
                 "Data based on the ITU DataHub",
-                "Angolan Institute of Communications",
+                "Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin)",
                 ""
               ]
             },
@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -99,6 +99,18 @@
               ]
             },
             "title": "TIME_DETAIL"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Apurement de la base client de SBIN",
+                "Breakdown by speed only available for ADSL.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National Environmental Office",
+                "Direction Générale de l'Eau/Ministère de l'Eau et des Mines",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -79,7 +79,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022-2022",
+                "2021-2022",
                 ""
               ]
             },

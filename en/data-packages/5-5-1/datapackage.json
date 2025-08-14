@@ -38,23 +38,11 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
-                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
-                "Unicameral: - (National Assembly), Data valid as of 1 Jan of given year",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
+                "Administrative data on 2020 election results. Data provided by the National Statistical Office. Compiled by UNECA African Centre for Statistics and UN Women.",
                 "Inter-Parliamentary Union (IPU), Parline Database",
                 ""
               ]
@@ -71,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -104,11 +92,25 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2021",
                 "2025",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
+                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
+                "Unicameral: - (National Assembly), Data valid as of 1 Jan of given year",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

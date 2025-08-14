@@ -42,8 +42,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministério da Cultura, Turismo e Ambiente",
-                "National Ozone Unit, Ministry of  Environment",
+                "Ministère du Cadre de Vie et du Développement Durable",
+                "Ministry of Living Environment and Sustainable Development",
+                "Direction Générale de l'Environnement et du Climat",
                 "World Environment Situation Room",
                 ""
               ]
@@ -60,7 +61,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

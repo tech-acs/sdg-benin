@@ -43,7 +43,6 @@
             "constraints": {
               "enum": [
                 "ITU estimate.",
-                "Instituto Nacional de Estatística",
                 ""
               ]
             },
@@ -59,24 +58,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
             "title": "REF_AREA"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
           },
           {
             "name": "UNIT_MEASURE",
@@ -94,7 +80,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                "2014",
                 ""
               ]
             },
@@ -105,7 +90,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Estimated based on DHS.",
+                "Aged 6 and older.",
                 ""
               ]
             },

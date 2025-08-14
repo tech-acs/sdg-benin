@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "O",
                 ""
               ]
             },
@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.",
+                "NA",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

@@ -1,19 +1,4 @@
 Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2004,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,29.52
-2009,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,14.78
-2010,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,29.76
-2011,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,31.89
-2014,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,19.73
-2019,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,13.31
-2021,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,15.36
-2022,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,16.65
-2019,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL_19ICLS,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,13.31
-2021,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL_19ICLS,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,15.36
-2022,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTL_19ICLS,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,16.65
-2009,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTN,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,14.78
-2014,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTN,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,18.19
-2019,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTN,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,10.9
-2021,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTN,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,11.01
-2022,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTN,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,15.41
-2019,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTN_19ICLS,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,10.9
-2022,A,0,Repository: ILO-STATISTICS - Micro data processing,LFS - Employment Survey,IC_GEN_MGTN_19ICLS,24,F,Y_GE15,PT,2025-03-15T00:00:00,2022,15.41
+2013,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,IC_GEN_MGTL,204,F,Y_GE15,PT,2025-03-15T00:00:00,2022,22.15
+2022,A,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,IC_GEN_MGTL,204,F,Y_GE15,PT,2025-03-15T00:00:00,2022,60.36
+2022,U,0,Repository: ILO-STATISTICS - Micro data processing,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,IC_GEN_MGTN,204,F,Y_GE15,PT,2025-03-15T00:00:00,2022,23.52

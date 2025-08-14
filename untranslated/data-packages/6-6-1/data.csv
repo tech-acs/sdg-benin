@@ -1,387 +1,390 @@
 Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,COMPOSITE_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
-2005,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,1.41788
-2006,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,0.78807
-2007,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,1.4791
-2008,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,2.53264
-2009,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,2.30723
-2010,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,3.11643
-2011,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,4.38828
-2012,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,4.37994
-2013,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,3.83042
-2014,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,3.80865
-2015,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,3.90119
-2016,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,2.90707
-2017,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,2.80942
-2018,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,2.45084
-2019,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,3.16846
-2020,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,2.16495
-2021,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,3.92368
-2022,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,4.32615
-2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,465.43619
-2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,481.45102
-2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,529.68266
-2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,547.39058
-2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,560.08179
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,573.81175
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,570.24836
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,574.15814
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,580.11894
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,578.84361
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,583.42196
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,590.61797
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,590.57077
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,587.46164
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,587.33851
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,587.86206
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,582.23746
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,581.68497
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,579.65615
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,583.71634
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,578.03859
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,587.98929
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,590.26645
-2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.03733
-2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.03862
-2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04249
-2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04391
-2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04493
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04603
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04574
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04605
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04653
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04643
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.0468
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04737
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04737
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04712
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04711
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04715
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.0467
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04666
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.0465
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04682
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04637
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04716
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.04735
-2005,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,-5.47349
-2006,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,-1.12224
-2007,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,-3.51733
-2008,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,-5.87659
-2009,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,0.22434
-2010,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,-0.23612
-2011,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,8.35141
-2012,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,12.02942
-2013,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,10.98216
-2014,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,10.79015
-2015,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,19.57997
-2016,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,15.92979
-2017,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,34.05562
-2018,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,47.82916
-2019,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,77.65757
-2020,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,66.07714
-2021,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,95.88608
-2022,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,24,None,PT,2024-05-08T00:00:00,2017-2021,91.32517
-2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,784.69876
-2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,881.06454
-2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,1380.52625
-2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,1749.39835
-2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,1884.91441
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2265.07403
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2369.33998
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2311.9481
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2255.41475
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2401.6072
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2390.57354
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2596.3506
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2684.48439
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2659.38961
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2654.78846
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2865.41306
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,2777.94622
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,3212.28319
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,3542.32904
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,4257.08678
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,3979.59281
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,4693.88399
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,4584.59401
-2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.06294
-2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.07067
-2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.11073
-2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.14032
-2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.15119
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.18169
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.19005
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.18545
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.18091
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.19264
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.19175
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.20826
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.21533
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.21331
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.21295
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.22984
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.22282
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.25766
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.28414
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.34147
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.31921
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.3765
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.36774
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,16.96446
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,19.49743
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,18.53007
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,26.30088
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,31.53491
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,13.31907
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,10.23193
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,11.34522
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,12.74514
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,11.74504
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_LOW,PT,2023-03-08T00:00:00,2021,58.93729
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_LOW,PT,2023-03-08T00:00:00,2021,61.21303
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_LOW,PT,2023-03-08T00:00:00,2021,60.49485
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_LOW,PT,2023-03-08T00:00:00,2021,52.11183
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_LOW,PT,2023-03-08T00:00:00,2021,48.34154
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,10.77919
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,9.0576
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,9.62986
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,8.84215
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,8.3785
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,12.57042
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,10.32406
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,10.84955
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,11.18842
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_EXTREME,PT,2023-03-08T00:00:00,2021,13.36831
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,16.2989
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,14.96963
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,13.85603
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,14.65189
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_HIGH,PT,2023-03-08T00:00:00,2021,13.49935
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_LOW,PT,2023-03-08T00:00:00,2021,51.39101
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_LOW,PT,2023-03-08T00:00:00,2021,55.20376
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_LOW,PT,2023-03-08T00:00:00,2021,54.09053
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_LOW,PT,2023-03-08T00:00:00,2021,55.45262
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_LOW,PT,2023-03-08T00:00:00,2021,55.61498
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,19.73967
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,19.50254
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,21.20389
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,18.70707
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,24,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,17.51736
-2000,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,-28.76607
-2001,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,-26.75734
-2002,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,-16.26974
-2003,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,-11.67575
-2004,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,-6.33906
-2005,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,0.20522
-2006,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,4.3145
-2007,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,8.17963
-2008,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,10.35359
-2009,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,11.31937
-2010,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,9.72844
-2011,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,10.87503
-2012,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,9.88574
-2013,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,9.02427
-2014,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,7.25283
-2015,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,6.5188
-2016,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,2.68572
-2017,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,0.60839
-2018,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,-1.85663
-2019,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,0.71306
-2020,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,1.8175
-2021,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,14.95563
-2022,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,24,None,PT,2024-03-26T00:00:00,2017-2021,23.94708
-2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,195.86233
-2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,201.38546
-2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,230.22181
-2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,242.85327
-2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,257.52685
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,275.52076
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,286.81949
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,297.44693
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,303.42438
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,306.07984
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,301.70549
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,304.85809
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,302.138
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,299.76932
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,294.89863
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,292.88038
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,282.34107
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,276.62931
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,269.85158
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,276.9171
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,279.95383
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,316.07797
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,340.80056
-2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.01571
-2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.01615
-2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.01847
-2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.01948
-2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02066
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.0221
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02301
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02386
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02434
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02455
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.0242
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02445
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02424
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02405
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02365
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02349
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02265
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02219
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02165
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02221
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02246
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02535
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,24,None,PT,2025-03-21T00:00:00,2017-2021,0.02734
-2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,229.86823
-2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,241.86382
-2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,285.78117
-2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,306.7365
-2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,332.8557
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,370.54616
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,394.61517
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,412.57782
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,428.23139
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,438.32108
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,431.17525
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,430.92181
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,421.09047
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,410.05702
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,400.09582
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,399.93201
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,393.11425
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,416.95596
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,444.16729
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,491.15037
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,530.65309
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,582.81764
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,24,None,KM2,2023-03-30T00:00:00,2017-2021,612.04579
-2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.01844
-2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.0194
-2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.02292
-2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.0246
-2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.0267
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.02972
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03165
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03309
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03435
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03516
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03459
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03456
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03378
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03289
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03209
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03208
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03153
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03344
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.03563
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.0394
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.04256
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.04675
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,24,None,PT,2025-05-21T00:00:00,2017-2021,0.04909
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,4.32793
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-0.19212
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-1.50058
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,3.20334
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,5.70033
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,10.69813
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,14.08506
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,10.64572
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,5.08034
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-1.17773
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-4.77903
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-12.55312
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-12.75501
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-12.31206
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-11.22519
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-10.24703
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-2.20807
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-2.6351
-2023,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,2.39417
-2024,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,5.54223
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,98921.22656
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,94635.42969
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,93394.77344
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,97854.92188
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,100222.5
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,104961.2969
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,108172.7031
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,104911.6016
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,99634.64844
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,93700.89844
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,90286.22656
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,82915.02344
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,82723.59375
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,83143.59375
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,84174.13281
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,85101.60156
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,92723.95313
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,92319.04688
-2023,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,97087.67969
-2024,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,100072.6016
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,4.69516
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-0.05508
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-3.22564
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,1.18076
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,2.52721
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,3.04858
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,9.21741
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,10.64993
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,4.54084
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,4.00085
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,2.07448
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-4.49351
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-6.14475
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-9.30224
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-8.71624
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-9.81823
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,-0.96327
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,1.70024
-2023,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,18.9593
-2024,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,24,None,PT,2025-05-13T00:00:00,2019-2023,25.94052
-2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,509522.0938
-2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,486404.0
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,470973.8125
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,492418.5
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,498971.3125
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,501508.6875
-2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,531530.625
-2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,538502.3125
-2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,508771.0938
-2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,506143.0938
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,496768.0
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,464803.4063
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,456767.3125
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,441400.6875
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,444252.5938
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,438889.5
-2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,481984.0938
-2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,494946.6875
-2023,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,578941.6875
-2024,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,24,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,612917.375
-2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-1.1747
-2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-1.66835
-2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-1.55566
-2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-1.63846
-2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-1.81557
-2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-2.62722
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-2.58486
-2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-3.29912
-2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-3.02301
-2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,24,None,PT,2023-03-30T00:00:00,2020,-3.30246
-2000,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,293.25124
-2007,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,289.8064
-2008,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,288.35878
-2009,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,288.68925
-2010,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,288.44644
-2015,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,287.92705
-2016,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,285.54689
-2017,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,285.67112
-2018,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,283.57654
-2019,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,284.38622
-2020,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,24,None,KM2,2023-03-30T00:00:00,2020,283.56673
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_WTLN,24,None,KM2,2023-03-30T00:00:00,2016-2018,59580.25854
-2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_WTLP,24,None,PT,2023-03-30T00:00:00,2016-2018,4.78
+2005,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,10.31854
+2006,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,10.01419
+2007,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,7.38991
+2008,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,6.57134
+2009,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,6.32065
+2010,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,6.89943
+2011,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,7.316
+2012,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,9.4607
+2013,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,10.2339
+2014,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,10.92186
+2015,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,11.65531
+2016,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,10.9149
+2017,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,10.65356
+2018,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,9.80653
+2019,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,8.73029
+2020,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,8.25345
+2021,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,8.0204
+2022,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,8.59082
+2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,82.45873
+2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,137.22206
+2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,194.69728
+2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,252.18721
+2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,264.56973
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,283.14077
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,282.35964
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,275.62422
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,273.5233
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,272.87988
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,274.36537
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,275.43452
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,280.93905
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,282.92353
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,284.68923
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,286.57169
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,284.67138
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,284.00061
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,281.82666
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,279.06441
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,277.84056
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,277.24243
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,278.70644
+2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.07185
+2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.11957
+2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.16966
+2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.21975
+2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.23054
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24672
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24604
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24017
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.23834
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.23778
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.23908
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24001
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24481
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24653
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24807
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24971
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24806
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24747
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24558
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24317
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24211
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24158
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_PWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.24286
+2005,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-12.82372
+2006,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-18.59489
+2007,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-22.88794
+2008,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-17.74123
+2009,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-33.62599
+2010,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-31.17967
+2011,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-25.7272
+2012,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-20.64926
+2013,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,-10.02025
+2014,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,14.43474
+2015,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,29.03642
+2016,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,52.11645
+2017,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,84.0346
+2018,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,91.44223
+2019,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,95.14912
+2020,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,113.0878
+2021,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,129.89772
+2022,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAC,204,None,PT,2024-05-08T00:00:00,2017-2021,127.66029
+2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,30.55439
+2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,46.119
+2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,62.60888
+2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,76.25244
+2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,92.20002
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,82.03109
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,76.60055
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,72.56087
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,77.40383
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,62.45659
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,64.75852
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,69.88919
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,74.66742
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,84.66911
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,107.68075
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,121.42063
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,143.13847
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,173.1728
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,180.14322
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,183.63133
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,200.51126
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,216.32905
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,214.22367
+2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.02662
+2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.04019
+2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.05456
+2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.06645
+2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.08034
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.07148
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.06675
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.06323
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.06745
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.05442
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.05643
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.0609
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.06506
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.07378
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.09383
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.1058
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.12473
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.1509
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.15697
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.16001
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.17472
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.18851
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKRV_SWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.18667
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,7.20899
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,12.13929
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,14.75959
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,22.14453
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,13.68895
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,4.94903
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,8.44906
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,17.75182
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,14.20567
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,6.99311
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_LOW,PT,2023-03-08T00:00:00,2021,82.54718
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_LOW,PT,2023-03-08T00:00:00,2021,71.10345
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_LOW,PT,2023-03-08T00:00:00,2021,57.2602
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_LOW,PT,2023-03-08T00:00:00,2021,53.9297
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_LOW,PT,2023-03-08T00:00:00,2021,71.56786
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,5.29479
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,8.3082
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,10.22839
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,9.72009
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRB,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,7.75008
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,3.93403
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,1.01747
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,1.06882
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,1.38109
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_EXTREME,PT,2023-03-08T00:00:00,2021,1.30487
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,3.03348
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,2.20568
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,1.75951
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,2.53816
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_HIGH,PT,2023-03-08T00:00:00,2021,2.27376
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_LOW,PT,2023-03-08T00:00:00,2021,87.22785
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_LOW,PT,2023-03-08T00:00:00,2021,89.41341
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_LOW,PT,2023-03-08T00:00:00,2021,90.69394
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_LOW,PT,2023-03-08T00:00:00,2021,89.16156
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_LOW,PT,2023-03-08T00:00:00,2021,89.37847
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,5.80465
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,7.36344
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,6.47773
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,6.91919
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_LKW_QLTRST,204,DL_MEDIUM,PT,2023-03-08T00:00:00,2021,7.0429
+2000,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,-74.90768
+2001,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,-49.96194
+2002,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,-26.59255
+2003,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,-1.97682
+2004,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,22.25404
+2005,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,18.49661
+2006,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,18.64329
+2007,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,19.94459
+2008,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,12.28316
+2009,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,9.13057
+2010,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,-1.24361
+2011,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,-1.17032
+2012,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,-2.14172
+2013,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,5.46475
+2014,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,8.01249
+2015,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,18.8083
+2016,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,17.54364
+2017,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,7.27939
+2018,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,-0.23547
+2019,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,0.36927
+2020,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,3.66844
+2021,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,1.34067
+2022,B,0,Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019),Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAC,204,None,PT,2024-03-26T00:00:00,2017-2021,14.64757
+2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.2424
+2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.48338
+2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.70914
+2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.94694
+2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.18101
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.14472
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.14613
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.1587
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.08469
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.05424
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.95402
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.95473
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.94534
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.01882
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.04344
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.14773
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.13551
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.03635
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.96376
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.9696
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.00147
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.97898
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.10753
+2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00021
+2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00042
+2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00062
+2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00083
+2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00103
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.001
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.001
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00101
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00095
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00092
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00083
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00083
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00082
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00089
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00091
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.001
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00099
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.0009
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00084
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00084
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00087
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00085
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MNWAP,204,None,PT,2025-03-21T00:00:00,2017-2021,0.00097
+2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,0.53845
+2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.0452
+2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,1.59675
+2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.13556
+2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.71154
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.59043
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.64868
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.60442
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.66055
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.56724
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.73491
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.77652
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.8114
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.73172
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.84186
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.88099
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.88949
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,2.92986
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,3.0237
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,3.02848
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,3.05451
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,3.06141
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAN,204,None,KM2,2023-03-30T00:00:00,2017-2021,3.1032
+2000,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00047
+2001,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00091
+2002,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00139
+2003,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00186
+2004,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00236
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00226
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00231
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00227
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00232
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00224
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00238
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00242
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00245
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00238
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00248
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00251
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00252
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00255
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00263
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00264
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00266
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.00267
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RSRV_MXWAP,204,None,PT,2025-05-21T00:00:00,2017-2021,0.0027
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,15.74651
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-1.21625
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-11.07749
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-13.49859
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-12.40644
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-11.97462
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-1.59108
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,6.36911
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,10.97275
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,8.41456
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,7.13642
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-2.51919
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-4.7186
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-7.81313
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-11.86746
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-10.90832
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,2.70958
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,15.97389
+2023,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,22.65952
+2024,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,31.94241
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,6200.896
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5292.14893
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,4763.85205
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,4634.146
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,4692.65576
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,4715.79004
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5272.06787
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5698.52002
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5945.15088
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5808.10107
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5739.62695
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5222.34619
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5104.51709
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,4938.73389
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,4721.53076
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,4772.91504
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,5502.46777
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,6213.07715
+2023,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,6571.24707
+2024,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MNRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,7068.56006
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-4.45953
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-16.49344
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-18.45878
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-16.33668
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-5.55273
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,5.02405
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,14.70172
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,12.46677
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,11.20819
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-6.75652
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-16.92663
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-18.55566
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-10.0516
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,-15.11601
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,0.93387
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,16.36211
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,26.00829
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,25.04437
+2023,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,47.84985
+2024,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLC,204,None,PT,2025-05-13T00:00:00,2019-2023,31.57403
+2005,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,46970.23047
+2006,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,41054.03906
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,40087.82813
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,41131.10938
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,46432.78125
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,51632.60938
+2011,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,56390.41016
+2012,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,55291.64844
+2013,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,54672.89844
+2014,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,45840.96875
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,40841.07031
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,40040.19922
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,44221.01953
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,41731.21875
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,49621.76953
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,57206.69922
+2021,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,61949.01953
+2022,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,61475.12891
+2023,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,72686.90625
+2024,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_RVR_MXRVFLN,204,None,M3_PER_SEC,2025-05-13T00:00:00,2019-2023,64685.28125
+2021,A,0,,Ramsar National Report COP14,EN_WBE_HMWTL,204,None,KM2,2022-03-18T00:00:00,2018-2021,8.77
+2021,A,0,,Ramsar National Report COP14,EN_WBE_INWTL,204,None,KM2,2022-03-18T00:00:00,2018-2021,1322.0
+2007,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,-17.8976
+2008,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,-21.53085
+2009,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,-16.35007
+2010,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,-7.2023
+2015,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,-1.64738
+2016,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,1.68604
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,1.30569
+2018,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,0.9945
+2019,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,0.19891
+2020,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGC,204,None,PT,2023-03-30T00:00:00,2020,-1.18633
+2000,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,29.11742
+2007,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,23.9061
+2008,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,22.84819
+2009,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,24.3567
+2010,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,27.0203
+2015,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,28.63775
+2016,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,29.60835
+2017,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,29.4976
+2018,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,29.407
+2019,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,29.17534
+2020,A,0,Represent 1996 proxy,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_MANGN,204,None,KM2,2023-03-30T00:00:00,2020,28.77199
+2017,A,0,,Environment Live,EN_WBE_NDQTRVR,204,None,M_M3_PER_YR,2020-03-26T00:00:00,1984-1999,999999999999999.0
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_WTLN,204,None,KM2,2023-03-30T00:00:00,2016-2018,3504.69638
+2017,A,0,,Global Surface Water Explorer extraction for UN Environment Programme,EN_WBE_WTLP,204,None,PT,2023-03-30T00:00:00,2016-2018,3.01

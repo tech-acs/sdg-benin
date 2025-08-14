@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "A",
+                "U",
                 ""
               ]
             },
@@ -53,8 +54,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LFS - Employment Survey",
-                "PC - Population Census",
+                "HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions",
+                "PC - Population projections and Revised Studies on Social Demand 2002-2030",
                 ""
               ]
             },
@@ -70,7 +71,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -131,7 +132,8 @@
             "constraints": {
               "enum": [
                 "2022",
-                "2014",
+                "2019",
+                "2013",
                 ""
               ]
             },

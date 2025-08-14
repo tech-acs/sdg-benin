@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "A",
                 ""
               ]
             },
@@ -30,6 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             },
@@ -40,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Observation value represents the number of countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics",
                 ""
               ]
             },
@@ -50,6 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "PARIS21 SDG Survey",
                 ""
               ]
             },
@@ -65,6 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "204",
                 ""
               ]
             },
@@ -85,6 +90,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 ""
               ]
             },

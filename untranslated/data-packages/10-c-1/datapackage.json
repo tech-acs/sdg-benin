@@ -39,8 +39,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Third quarter of the specified year.",
-                "Third quarter of the specified year",
                 "NaN = Not Available",
                 ""
               ]
@@ -52,7 +50,6 @@
             "constraints": {
               "enum": [
                 "World Development Indicators database, World Bank.",
-                "Remittance Prices Worldwide database, World Bank.",
                 ""
               ]
             }
@@ -66,18 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "CUST_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "C516",
+                "204",
                 ""
               ]
             }
@@ -96,16 +82,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "CUST_BREAKDOWN_LB",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Namibia",
                 ""
               ]
             }

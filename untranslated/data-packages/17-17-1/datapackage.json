@@ -35,16 +35,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zero means there is no PPI investment captured in the year",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -63,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -83,6 +73,16 @@
               "enum": [
                 "2020",
                 "2019",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zero means there is no PPI investment captured in the year",
                 ""
               ]
             }

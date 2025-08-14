@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Instituto dos Servicos de Veterinaria (ISV)",
+                "National Coordinator for the management of AnGR of: Benin",
                 "NA",
                 ""
               ]
@@ -60,7 +60,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

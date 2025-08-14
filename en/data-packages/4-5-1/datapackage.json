@@ -42,10 +42,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Angola DHS 2015-16. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
-                "UIS based on UIS based on AGO - LFS - Employment Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
-                "UIS based on UIS based on AGO - LFS - Employment Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None - Unreliable - Low reliability Data extracted on 25 February 2025.",
+                "Benin Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) 2021-22. The survey collected data on school attendance and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Benin MICS 2021-22. The survey collected data on school attendance for age 3-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
+                "Benin MICS 2014. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
+                "Benin DHS 2017-18. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above. Data extracted on 25 February 2025.",
+                "UIS based on UIS based on BEN - HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
                 "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 3. Grade 6 Data extracted on 25 February 2025.",
+                "CONFEMEN Programme for the Analysis of Education Systems (PASEC). Students achieving at least proficiency Level 4. Grade 6 Data extracted on 25 February 2025.",
                 ""
               ]
             },
@@ -61,7 +65,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -89,7 +93,6 @@
                 "Y15T24",
                 "Y15T64",
                 "Y25T54",
-                "Y55T64",
                 ""
               ]
             },
@@ -141,6 +144,19 @@
             "title": "EDUCATION_LEV"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "SKILL_MATH",
+                "SKILL_READ",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
@@ -155,10 +171,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2015",
                 "2022",
-                "2016",
                 "2021",
+                "2014",
+                "2017",
+                "2018",
+                "2000",
+                "2019",
                 ""
               ]
             },
@@ -169,6 +188,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "This data point is NIL for the submitting nation.",
                 "This data point is NOT APPLICABLE for the submitting nation.",
                 ""
               ]

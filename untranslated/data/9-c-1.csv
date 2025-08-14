@@ -1,36 +1,52 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
-2006,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",40.0
-2013,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",90.0
-2014,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",92.0
-2015,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",99.0
-2016,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",90.0
-2017,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",90.0
-2018,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",90.0
-2019,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",90.0
-2020,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",90.0
-2021,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",100.0
-2022,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",87.52
-2023,A,0,Angolan Institute of Communications,IT_MOB_2GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",87.52
-2011,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",40.0
-2012,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",47.0
-2013,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",53.0
-2014,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",46.0
-2015,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",60.67
-2016,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",62.0
-2017,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",85.0
-2018,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",85.0
-2019,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",85.0
-2020,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",87.0
-2021,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",87.2
-2022,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",85.8
-2023,A,0,Angolan Institute of Communications,IT_MOB_3GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",85.8
-2015,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",7.0
-2016,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",8.0
-2017,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",8.0
-2018,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",8.0
-2019,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",18.0
-2020,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",30.0
-2021,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",33.0
-2022,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",57.9
-2023,A,0,Angolan Institute of Communications,IT_MOB_4GNTWK,24,PT,2025-03-06T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",76.78
-2023,A,0,Angolan Institute of Communications,IT_MOB_5GNTWK,24,PT,2025-03-08T00:00:00,2023,"data have been revised,there are estimated data so the unit is the smallest available",17.26
+2001,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,23.0
+2002,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,27.0
+2003,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,36.0
+2004,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,40.0
+2005,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,43.0
+2006,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,70.0
+2007,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,75.0
+2008,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,79.0
+2009,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,82.0
+2010,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,90.0
+2011,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,99.0
+2012,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,99.0
+2014,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,99.0
+2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2016,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_2GNTWK,204,PT,2025-03-06T00:00:00,2023,,98.0
+2007,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
+2008,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
+2009,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
+2010,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
+2011,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
+2012,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,0.0
+2013,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,25.0
+2014,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,30.0
+2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,45.0
+2016,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,45.0
+2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,65.0
+2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
+2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
+2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
+2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
+2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,82.0
+2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_3GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,85.0
+2015,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,11.52
+2016,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,23.89
+2017,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,39.72
+2018,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,40.0
+2019,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,45.0
+2020,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,46.0
+2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,46.0
+2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
+2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_4GNTWK,204,PT,2025-03-06T00:00:00,2023,Données corrigées,80.0
+2021,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_5GNTWK,204,PT,2025-03-08T00:00:00,2023,Data not available,0.0
+2022,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_5GNTWK,204,PT,2025-03-08T00:00:00,2023,Data not available,0.0
+2023,A,0,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin),IT_MOB_5GNTWK,204,PT,2025-03-08T00:00:00,2023,Data not available,0.0

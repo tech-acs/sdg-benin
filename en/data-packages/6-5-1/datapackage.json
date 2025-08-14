@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National Institute of Water Resources of the Ministry of Energy and Water",
+                "Directorate-General for Water",
                 ""
               ]
             },
@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

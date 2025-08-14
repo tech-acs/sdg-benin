@@ -1,27 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,CUST_BREAKDOWN,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,CUST_BREAKDOWN_LB,Value
-2011,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,17.88
-2015,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,16.59
-2017,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,18.7
-2018,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,19.37
-2019,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,19.52
-2020,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,22.04
-2021,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,18.74
-2022,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,20.92
-2023,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST,24,None,PT,2024-03-13T00:00:00,2023,,17.73
-2016,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,16.69
-2017,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,27.64
-2018,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,26.94
-2019,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,16.05
-2020,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,19.09
-2021,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,12.68
-2022,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,26.34
-2023,A,0,Third quarter of the specified year,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_BC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,11.28
-2016,A,0,NaN = Not Available,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,17.83066
-2021,A,0,NaN = Not Available,"Remittance Prices Worldwide database, World Bank.",SI_RMT_COST_SC,24,C516,PT,2024-03-13T00:00:00,2023,Namibia,16.86
-2017,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,24,None,PT,2024-02-29T00:00:00,2023,,27.64
-2018,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,24,None,PT,2024-02-29T00:00:00,2023,,26.94
-2019,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,24,None,PT,2024-02-29T00:00:00,2023,,16.05
-2020,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,24,None,PT,2024-02-29T00:00:00,2023,,19.09
-2021,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,24,None,PT,2024-02-29T00:00:00,2023,,12.68
-2022,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,24,None,PT,2024-02-29T00:00:00,2023,,26.34
-2023,A,0,Third quarter of the specified year.,"World Development Indicators database, World Bank.",SI_RMT_COST_SND,24,None,PT,2024-02-29T00:00:00,2023,,11.28
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2017,A,0,NaN = Not Available,"World Development Indicators database, World Bank.",SI_RMT_COST,204,PT,2024-03-13T00:00:00,2023,18.3
+2018,A,0,NaN = Not Available,"World Development Indicators database, World Bank.",SI_RMT_COST,204,PT,2024-03-13T00:00:00,2023,12.28
+2019,A,0,NaN = Not Available,"World Development Indicators database, World Bank.",SI_RMT_COST,204,PT,2024-03-13T00:00:00,2023,9.56
+2020,A,0,NaN = Not Available,"World Development Indicators database, World Bank.",SI_RMT_COST,204,PT,2024-03-13T00:00:00,2023,17.35

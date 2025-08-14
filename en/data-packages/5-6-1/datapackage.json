@@ -53,8 +53,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DHS 2015-2016. UNFPA Global Database, 2025.",
-                "DHS 2015-2016. UNFPA Global Database, 2024.",
+                "MICS 2021-2022. UNFPA Global Database, 2025.",
+                "MICS 2021-2022. UNFPA Global Database, 2024.",
                 ""
               ]
             },
@@ -70,7 +70,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -113,7 +113,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2015-2016",
+                "2021-2022",
                 ""
               ]
             },

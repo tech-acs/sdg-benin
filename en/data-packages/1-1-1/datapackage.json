@@ -53,8 +53,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accessed September 19, 2024. Based on data from IDREA. Estimated from unit-record consumption data.",
-                "Accessed September 19, 2024. Survey name: IDREA. Uses a consumption aggregate, which is not spatially deflated.",
+                "Accessed September 19, 2024. Based on data from EHCVM. Estimated from unit-record consumption data.",
+                "Accessed September 19, 2024. Survey name: EHCVM. Uses a consumption aggregate, which is not spatially deflated.",
                 ""
               ]
             },
@@ -66,6 +66,7 @@
             "constraints": {
               "enum": [
                 "Poverty and Inequality Portal, World Bank",
+                "ILO modelled estimates, Nov. 2024",
                 ""
               ]
             },
@@ -81,7 +82,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
@@ -109,6 +110,9 @@
                 "Y_GE65",
                 "Y0T14",
                 "Y15T64",
+                "Y_GE15",
+                "Y_GE25",
+                "Y15T24",
                 ""
               ]
             },
@@ -142,7 +146,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2018",
+                "2021",
+                "2015",
                 ""
               ]
             },

@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",
+                "National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",
                 ""
               ]
             }
@@ -53,7 +54,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -67,6 +80,7 @@
                 "ISCO08_222_322",
                 "ISCO08_2261",
                 "ISCO08_2262",
+                "ISCO08_2221_3221",
                 ""
               ]
             }
@@ -84,6 +98,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2023",
                 "2022",
                 ""
               ]

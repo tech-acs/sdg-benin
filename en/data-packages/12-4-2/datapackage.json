@@ -42,7 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data refer to the amount of municipal waste generated.",
+                "Quantity resulting from sorting and intended for valorization.",
+                "Data refer to biomedical waste.",
                 ""
               ]
             },
@@ -54,6 +55,8 @@
             "constraints": {
               "enum": [
                 "UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",
+                "Institut National de la Statistique et de l'Analyse Economique",
+                "UNEP / WESR",
                 ""
               ]
             },
@@ -69,11 +72,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "WT_INCINRT",
+                "WT_LANDFIL",
+                "WT_OTHERWM",
+                "WT_LANDFILCTL",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "ISIC4_A",
+                ""
+              ]
+            },
+            "title": "ACTIVITY"
           },
           {
             "name": "UNIT_MEASURE",
@@ -90,15 +120,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2006",
+                "2022",
+                "2021",
+                "2002",
                 ""
               ]
             },
             "title": "TIME_DETAIL"
           },
           {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                ""
+              ]
+            },
+            "title": "BASE_PER"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

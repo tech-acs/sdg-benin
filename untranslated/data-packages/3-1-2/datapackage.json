@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Instituto Nacional de Estatística (INE), Ministério da Saúde (MINSA), Ministério do Planeamento e do Desenvolvimento Territorial (MINPLAN), ICF. Inquérito de Indicadores Múltiplos e de Saúde em Angola 2015-2016. Luanda, Angola e Rockville, Maryland, EUA: INE, MINSA, MINPLAN, ICF; 2017 (in Portuguese).",
+                "Institut National de la Statistique et de la Démographie (INStaD). 2023. Enquête par Grappes à Indicateurs Multiples, Bénin, 2021-2022, Rapport des résultats de l’enquête. Cotonou, Bénin : INStaD.",
                 ""
               ]
             }
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -71,7 +71,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2015 - 2016",
+                "2021 - 2022",
                 ""
               ]
             }

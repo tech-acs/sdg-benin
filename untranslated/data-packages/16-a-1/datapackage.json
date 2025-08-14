@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Name of NHRI - Provedor di Justiça di direitos",
+                "Name of NHRI - Commission béninoise des droits de l’homme",
                 ""
               ]
             }
@@ -63,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }

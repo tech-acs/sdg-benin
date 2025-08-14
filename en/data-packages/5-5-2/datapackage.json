@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "A",
+                "U",
                 ""
               ]
             },
@@ -53,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LFS - Employment Survey",
+                "HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions",
                 ""
               ]
             },
@@ -69,7 +70,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

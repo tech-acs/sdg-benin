@@ -63,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -74,15 +74,12 @@
             "constraints": {
               "enum": [
                 "C01",
+                "C02",
                 "C03",
                 "C04",
                 "C05",
                 "C06",
                 "C07",
-                "C08",
-                "C09",
-                "C10",
-                "C11",
                 ""
               ]
             }
@@ -96,16 +93,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Luanda",
-                "Benguela",
-                "Cabinda",
-                "Huambo",
-                "Lubango",
-                "Luena",
-                "Malanje",
-                "Menongue",
-                "N'dalatando",
-                "Saurimo",
+                "Bohicon",
+                "Cotonou",
+                "Djougou",
+                "Kandi",
+                "Natitingou",
+                "Parakou",
+                "Porto-Novo",
                 ""
               ]
             }

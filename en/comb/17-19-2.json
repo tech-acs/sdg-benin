@@ -1,1 +1,1 @@
-{"data":{"Year":[2014],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations."],"SERIES":["SG_REG_CENSUSN"],"REF_AREA":["24"],"UNIT_MEASURE":["NUMBER"],"DATA_LAST_UPDATE":["2024-09-26T00:00:00"],"TIME_DETAIL":["2014"],"Value":[1]},"edges":{"From":["OBS_STATUS","UNIT_MULT","SOURCE_DETAIL","REF_AREA"],"To":["UNIT_MULT","SOURCE_DETAIL","REF_AREA","TIME_DETAIL"]}}
+{"data":[],"edges":[]}

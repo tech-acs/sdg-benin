@@ -40,7 +40,6 @@
             "constraints": {
               "enum": [
                 "UNESCO Institute for Statistics. Sector Name: General government.",
-                "IMF",
                 ""
               ]
             }
@@ -54,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -73,17 +72,6 @@
             "constraints": {
               "enum": [
                 "2024",
-                "2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Budgetary Central Government Sector",
                 ""
               ]
             }

@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "A",
                 ""
               ]
             }
@@ -28,6 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0",
                 ""
               ]
             }
@@ -37,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Numerical data is not available.",
                 ""
               ]
             }
@@ -46,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "NA",
                 ""
               ]
             }
@@ -59,6 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "204",
                 ""
               ]
             }
@@ -76,6 +81,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 ""
               ]
             }

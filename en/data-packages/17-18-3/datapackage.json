@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Observation value represents the number of countries with national statistical plans that are under implementation",
+                "Data not available",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PARIS21 SDG Survey",
+                "NA",
                 ""
               ]
             },
@@ -69,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },

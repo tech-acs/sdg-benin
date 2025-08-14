@@ -40,8 +40,6 @@
             "constraints": {
               "enum": [
                 "WHO",
-                "World Health Organization",
-                "Institute for Health Metrics and Evaluation/Annual Report Questionnaire",
                 ""
               ]
             }
@@ -55,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             }
@@ -78,22 +76,6 @@
             "constraints": {
               "enum": [
                 "Y_GE15",
-                "None",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "None",
-                "SUD_ALCOHOL",
-                "SUD_ATS",
-                "SUD_COCAINE",
-                "SUD_DRUG_TOTAL",
-                "SUD_OPIOIDS",
                 ""
               ]
             }
@@ -112,17 +94,6 @@
             "constraints": {
               "enum": [
                 "2016",
-                "2018",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Subnational",
                 ""
               ]
             }

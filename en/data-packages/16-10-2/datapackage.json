@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Adoption of FOI law/policy in 2002. Observation value 1 representns whether the country has adopted FOI law/policy. Reference year represents the year of reporting.",
+                "Adoption of FOI law/policy in 2015. Observation value 1 representns whether the country has adopted FOI law/policy. Reference year represents the year of reporting.",
                 ""
               ]
             },
@@ -69,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "24",
+                "204",
                 ""
               ]
             },
