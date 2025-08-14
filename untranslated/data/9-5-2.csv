@@ -1,0 +1,3 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,COMMENT_OBS,Value
+2011,A,0,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_POP_SCIERD,24,PER_1000000_POP,2025-03-05T00:00:00,2016,Excluding Business enterprise;Excluding Private non-profit;Partial data;Break in series with previous year for which data are available,48.42677
+2016,A,0,UNESCO Institute for Statistics.  Data extracted on 25 February 2025.,GB_POP_SCIERD,24,PER_1000000_POP,2025-03-05T00:00:00,2016,Excluding Business enterprise;Excluding Private non-profit;Partial data;Break in series with previous year for which data are available,18.93579

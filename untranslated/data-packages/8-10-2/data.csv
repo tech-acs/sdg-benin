@@ -1,0 +1,21 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,UNIT_MEASURE,DATA_LAST_UPDATE,TIME_DETAIL,Value
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE15,None,None,PT,2024-05-08T00:00:00,2014,39.203542470932
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE15,None,None,PT,2024-05-08T00:00:00,2014,29.3181210756302
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE15,None,AGG_0_1,PT,2024-05-08T00:00:00,2014,34.8189204931259
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE15,None,AGG_0_1,PT,2024-05-08T00:00:00,2014,14.3491074442863
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE15,None,AGG_GE2,PT,2024-05-08T00:00:00,2014,44.3468719720841
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE15,None,AGG_GE2,PT,2024-05-08T00:00:00,2014,70.2546358108521
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE15,B40,None,PT,2024-05-08T00:00:00,2014,12.5435411930084
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE15,R60,None,PT,2024-05-08T00:00:00,2014,40.4596477746964
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE25,None,None,PT,2024-05-08T00:00:00,2014,44.6504652500153
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y_GE25,None,None,PT,2024-05-08T00:00:00,2014,37.6973211765289
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y15T24,None,None,PT,2024-05-08T00:00:00,2014,30.4581969976425
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,None,Y15T24,None,None,PT,2024-05-08T00:00:00,2014,14.8649618029594
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,F,Y_GE15,None,None,PT,2024-05-08T00:00:00,2014,38.9283448457718
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,F,Y_GE15,None,None,PT,2024-05-08T00:00:00,2014,22.3316460847855
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,M,Y_GE15,None,None,PT,2024-05-08T00:00:00,2014,39.4809693098068
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS,24,M,Y_GE15,None,None,PT,2024-05-08T00:00:00,2014,36.1321300268173
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS_ILF,24,None,Y_GE15,None,None,PT,2024-05-08T00:00:00,2014,45.80978
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS_ILF,24,None,Y_GE15,None,None,PT,2024-05-08T00:00:00,2014,35.88456
+2011,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS_OLF,24,None,Y_GE15,None,None,PT,2024-05-23T00:00:00,2014,30.86977
+2014,A,0,"The World Bank (2021), Global Findex Database (https://www.worldbank.org/en/publication/globalfindex)",FB_BNK_ACCSS_OLF,24,None,Y_GE15,None,None,PT,2024-05-23T00:00:00,2014,11.68623
